@@ -1,1 +1,0 @@
-var obj = {name:"avi",age: 12};
